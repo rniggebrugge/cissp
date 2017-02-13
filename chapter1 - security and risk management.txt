@@ -4,8 +4,8 @@ CHAPTER 1 - Security and Risk Management
 
 All decisions start with Risk Management and everything we do secures the continuity of the business
 
-CIA - confidentiality, integrity, availability
-IAAA - Identification, Authentication, Authorization, Auditing/Accountability
+~~ CIA - confidentiality, integrity, availability
+~~ IAAA - Identification, Authentication, Authorization, Auditing/Accountability
 
 ****************** VIDEO - PART 2:
 
@@ -34,12 +34,12 @@ Ensuring data has not been altered in transition. Use CRCs, checksums, message d
 AVAILABILITY
 
 Metrics used: 
-	MTD (Maximum Tolerable Downtime), 
-	RTO (Recovery Time Objective) - how quickly must I recover my data,
-	RPO (Reovery Point Objective) - how much recent data could I stand to lose
-	SLAs: specifify minimum availability requirement
-	MTBF: mean time between failure
-	MTTR: mean time to repair
+~~	MTD (Maximum Tolerable Downtime), 
+~~	RTO (Recovery Time Objective) - how quickly must I recover my data,
+~~	RPO (Reovery Point Objective) - how much recent data could I stand to lose
+~~	SLAs: specifify minimum availability requirement
+~~	MTBF: mean time between failure
+~~	MTTR: mean time to repair
 
 AUTHENTICITY
 allow anonymous access (public)
@@ -53,13 +53,13 @@ AUTHORIZATION
 
 Confirms an authenticated entity has privileges and permissions necessary. Always work from principle of least-privileges. Give absolute minimum permissions to do the job.
 
-CRUD: creat, read, update, delete
+~~ CRUD: creat, read, update, delete
 
 Access Control Models (ACM)
-	- DAC	: discretionaty access model
-	- MAC	: mandatory access control
-	- RBAC	: role based access control
-	- RuBac	: role based access control (like firewalls)
+~~	- DAC	: discretionaty access model
+~~	- MAC	: mandatory access control
+~~	- RBAC	: role based access control
+~~	- RuBac	: role based access control (like firewalls)
 
 ACCOUNTABILITY
 
@@ -100,6 +100,34 @@ Tenets of secure architecture and design. These tenets are always valid/applicab
 - Dual control: some activities are so potentially harmfull that we do not allow one person to do these. For example: recover private key.
 
 
+********************** VIDEO - PART 4:
 
+Risk management ~= Security Management
+
+Risk Management steps:
+	identify
+	assess
+	treat
+	monitor
+	
+Risk definitions:
+	- asset: provides value to the organisation, tangible or intangible. Risk management should start with valuating the assets
+	- risk: likelyhood that a threat will exploit a vulnerability in an asset
+	- threat: has to potential to harm an asset
+	- vulnerability: a weakness, a lack of safeguard
+	- exploit: instance of compromise
+	- controls: proactive mechanisms to secure vulnerabilities
+		safeguards: proactive - DETERS or PREVENTS
+		countermeasures: reactive mechanism - DETECTS and/or CORRECTS
+
+Types of risk:
+	- total risk: amount of risk without implementing mitigation.
+	- secondary risk: risk that comes as a result of another risk response
+	- residual risk: amount of risk left after a risk response
+
+Fallback plan: plan B
+Workaround: unplanned response (for unidentified risk or when other responses do not work)
+		
+	
 
 
