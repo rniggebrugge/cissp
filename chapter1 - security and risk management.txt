@@ -1,0 +1,83 @@
+CHAPTER 1 - Security and Risk Management
+
+video 1:
+
+All decisions start with Risk Management and everything we do secures the continuity of the business
+
+CIA - confidentiality, integrity, availability
+IAAA - Identification, Authentication, Authorization, Auditing/Accountability
+
+video 2:
+
+Core security: CIA
+
+CONFEDENTIALITY: 
+encrypting (minimum keylenth)
+
+Overt: Cryptography and masking (like showing * instead of password letters)
+Covert: steganography (message inside another message) - embedding, how to address this avoiding it from happening
+
+Three states of data: at rest, in process, in transit
+
+In rest		: always encrypt
+In process	: must be decrypted when working on data. Not much you can do. Clean desk policy, avoid shoulder surfing, lock system
+In transit	: use SSL, TLS, ipSec to protect data in transit. Do not allow FTP or other clear text transit models
+
+INTEGRITY
+
+System integrity addresses the correct functioning of a system.
+Data integrity provides assurance that the data has not been manipulated or modified.
+
+Protect against code injection.
+Ensuring data has not been altered in transition. Use CRCs, checksums, message digests, hashes
+
+AVAILABILITY
+
+Metrics used: 
+	MTD (Maximum Tolerable Downtime), 
+	RTO (Recovery Time Objective) - how quickly must I recover my data,
+	RPO (Reovery Point Objective) - how much recent data could I stand to lose
+	SLAs: specifify minimum availability requirement
+	MTBF: mean time between failure
+	MTTR: mean time to repair
+
+AUTHENTICITY
+allow anonymous access (public)
+basic authenticity: user supplied password, transmitted in clear text
+digest: challenge/response
+certificates, tokens, smart cards
+
+This should all be specified in our program
+
+AUTHORIZATION
+
+Confirms an authenticated entity has privileges and permissions necessary. Always work from principle of least-privileges. Give absolute minimum permissions to do the job.
+
+CRUD: creat, read, update, delete
+
+Access Control Models (ACM)
+	- DAC	: discretionaty access model
+	- MAC	: mandatory access control
+	- RBAC	: role based access control
+	- RuBac	: role based access control (like firewalls)
+
+ACCOUNTABILITY
+
+Tracing an action to a subject - also known as auditing
+
+Must include:
+	- identity of subject
+	- action performed
+	- object which action was performed on
+	- timestamp
+
+Audit logs should not overwrite previous events, they should append
+Audit logs must be retained for one year
+
+Above identification, authentication, authorization and auditing are core security requirements + Confidentiality, Integrity, Availability.
+
+ 
+
+
+
+

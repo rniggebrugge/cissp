@@ -1,0 +1,22 @@
+Domains/chapters:
+
+1. Security and Risk Management
+2. Asset Security
+3. Security Engineering
+4. Communication and Network Security
+5. Identity and Access Managemenet
+6. Security Assessment and Testing
+7. Security Operations
+8. Software Development Security
+
+Most important and very testable:
+	chapter 1, chapter 3 (cryptography now part of this), chapter 4, chapter 8
+
+
+CISSP Mindset
+
+- your role is a risk advisor, think like a manager. You are not a decision maker, nor the one fixing the problems. You advice
+- who is responsible? Ultimately senior management. 
+- how much security is enough? just enough is enough. Balance cost and value of the assets you secure and the damage these assets are at risk at.
+
+
