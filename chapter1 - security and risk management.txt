@@ -1,13 +1,13 @@
 CHAPTER 1 - Security and Risk Management
 
-video 1:
+****************** VIDEO - PART 1:
 
 All decisions start with Risk Management and everything we do secures the continuity of the business
 
 CIA - confidentiality, integrity, availability
 IAAA - Identification, Authentication, Authorization, Auditing/Accountability
 
-video 2:
+****************** VIDEO - PART 2:
 
 Core security: CIA
 
@@ -77,6 +77,28 @@ Audit logs must be retained for one year
 Above identification, authentication, authorization and auditing are core security requirements + Confidentiality, Integrity, Availability.
 
  
+****************** VIDEO - PART 3:
+
+Tenets of secure architecture and design. These tenets are always valid/applicable:
+
+- How much security is enough: just enough, balance cost and benefit, driven by risk analysis
+- Defense in depth: no one mechanism will secure all. Layers of protection
+- Fail-safe: system should fail in such a manner to protect itself. Example: Windows blue screen, nothing can be done afterwards
+- Economy of mechanism: keep it simple and straight forward, easier to secure (KISS)
+- Completeness of design: ensure to protect security through the entire life-cycle of the software. In any assistance there is an equality of protection
+- Least common mechanism: profit from what's out there, don't reinvent the wheel
+- Open Design: make it known, we prefer open architecture to allow for peer review
+- Consider the weakest link: in organisation it is the users. not all malicious.
+- Redundancy: avoid single point of failure. System that can withstand when one element fails
+- Psychological Acceptability: if a system has become so in-accessible by security measures, users will find ways to by-pass it (or not use at all!)
+  ==security is there to support the business function. If users have a difficult time, you are not meeting the goals
+- Separation of Duties (SOD): no one individual has too much power within system or environment. Roles with permissions
+- Mandatory Vacations
+- Job rotation : not one person do all work on system, rotate so more eyes see. 
+- Least Privileges: give just enough rights to do your job    (ACTION ALLOWED)
+- Need to know: give access rights to what you need to know.  (DATA ACCESSIBLE)
+- Dual control: some activities are so potentially harmfull that we do not allow one person to do these. For example: recover private key.
+
 
 
 
