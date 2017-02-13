@@ -128,6 +128,32 @@ Types of risk:
 Fallback plan: plan B
 Workaround: unplanned response (for unidentified risk or when other responses do not work)
 		
-	
+
+****************** VIDEO - PART 5:
+
+Risk assessment steps: 
+	- risk assessment: identify assets, threads, vulnerabilities
+	- risk analysis: value of potential risk
+	- risk mitigation: responding to risk. Reduce residual risk to levels acceptable by senior management
+	- risk monitoring: risk is forever!
+
+ASSESSMENT:
+- identify and valuate assets
+- identify threads and vulnerabilities
+- Methodologies:
+	- OCTAVE
+	- FRAP (Facilitated Risk Analysis Process)
+	- NIST 800-30: risk management guide for Information Technology systems !! 9 step process:
+		1. system characterization
+		2. threat identification
+		3. vulnerability identification
+		4. control analysis
+		5. likelyhood determination
+		6. impact analysis
+		7. risk determination
+		8. control recommendations
+		9. results documentation
+
+
 
 
