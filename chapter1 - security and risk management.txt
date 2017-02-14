@@ -308,6 +308,140 @@ LIABILITIES
 
 POLICIES PROCEDURES
 
+Several policy documents.
+
+1/ Organizational Security Policy 
+
+For entire policy, does not go into detail, doesn't single out specific persons or assets.
+
+- aka Program Policy
+- mandatory!
+- high level statement from management
+- supports strategic goals of an organization
+- explain any legislation or industry specific drivers
+- assigns responsibility
+- integrated into all business functions
+- enforcement and accountability
+
+2/ Issue and system specific policy
+
+- issue specific policy (also called functional implementation policy) would include company's stance on various employee issues (AUP, email, privacy, ..)
+- system specific policy is geared towards use of network and system resources. approved software lists, use of firewalls, IDS, scanners, webserver, ...
+
+Concerning issue specific policy: inform employee about what to expect, where is there an expectation of privacy, where not. Where is accepted use policy, etc. It is easier to deter 'bad behaviour' than to detect it! With these policies you do not try to catch the bad guys, rather keep the good guys honest!
+
+3/ Other types
+
+	- regulatory 	: be in compliance
+	- advisory		: advice
+	- informative	: just so you know... fyi
+
+Laws, regulations and best practices
+		\-- Program Policy (=Organizational Policy)
+				\-- Functional (issue and system specific) policies
+					\-- [standards] , [procedures] , [baselines] , [guidelines]
+
+- Standards:
+	+ mandatory
+	+ specifics, definitions
+	+ reinforces policy and provides direction
+	+ can be internal/external
+
+- Procedure:
+	+ mandatory
+	+ step by step directives on how to accomplish end-result
+	+ detail the "how to" of meeting the policy, standards and guidelines
+
+- Guidelines
+	+ NOT mandatory
+	+ suggestive
+	+ recommended actions
+	+ best practices
+
+- Baselines
+	+ mandatory
+	+ minimum acceptable security configuration for a system or process
+	+ purpose of security classification is to determine and assign the necessary
+	  baseline configuration to protect the data
+	+ example: when receiving new server: patch them (latest service packs), reset default configuration settings, 
+	  remove unneeded services, remove default admin account, etc. This is meeting to baselines.
+
+Baseline can also mean: snapshot of normally behaving systems (CPU usage, network traffic, Memory usage, etc), against
+which current behaviour can be compared. Little differences from the baseline should be investigated
+
+
+****************** VIDEO - PART 11:
+
+KNOWLEDGE TRANSFER
+
+Awareness, training, education. People are often the weakest link in securing information.
+The goal of knowledge transfer is to modify employee behaviour ->  thereby raising overall security of organization
+
+What is the purpose of.... should always come to changing behaviour, raise security
+
+Being aware of the rules
+
+	Security awareness traing:
+		- employees cannot and will not follow the directives and procedures if not known
+		- employees must know expectations and ramifications if not met
+		- employee recognition award program
+		- part of due care
+		- this is an ADMINISTRATIVE control
+
+
+****************** VIDEO - PART 12:
+
+TYPES OF LAW
+
+read ISC2 code of ethics. Will be some questions on it: 
+		https://www.isc2.org/uploadedfiles/(isc)2_public_content/code_of_ethics/isc2-code-of-ethics.pdf
+
+- Criminal law
+- Civil law
+- Regulatory (also administrative law)
+- Intellectual Property
+
+1/ Criminal Law
+	- beyond reasonable doubt: can be difficult to meet burden of proof in computer-related crimes, jurors not 
+	  understanding....
+	- penalties: financial, jail-time, death
+		+ felonies: more serious of two. Penalty results in incarceration of 1 year+
+		+ misdemeanors: normally less serious. Fines are jail-time 1 year-
+	- goal of criminal penalties
+		+ punishment
+		+ deterrence
+
+2/ Civil (Tort) Law
+	- preponderance of evidence (=majority of evidence) . Lower burden of prove
+	- damages
+		+ compensatory (harm, investigative costs)
+		+ punitive
+		+ statutory: amount stipulated in law rather than calculated based on harm. Often statutory damages
+		  are awarded for acts in which it is difficult to determine value of harm to victim
+	- liability, due care, due diligence, prudent person rule are pertinent to civil law, as well as administrative law
+
+3/ Administrative (Regulatory) Law
+	- defines standards of performance and regulates conduct for specific industries
+		+ banking (Basel II)
+		+ energy (EPAct) of 2005
+		+ Health Care (HIPAA)
+	- Burden of proof is "more likely than not"
+	- penalties consist of financiel or imprisonment
+
+4/ Intellectual Property   [04:28....]
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
