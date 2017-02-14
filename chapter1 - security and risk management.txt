@@ -155,5 +155,35 @@ ASSESSMENT:
 		9. results documentation
 
 
+****************** VIDEO - PART 6:
+
+Risk Analysis
+
+Qualitative: subjective analysis to help prioritize probability and impact of risk events
+	May use Delphi Technique
+
+Quantitave: 
+	- providind a dollar value to a particular event
+	- much more sophisticated in nature, a quantitative analysis is much more difficult and requires special skill set
+	- business decisions are made on a quantatitive analysis
+	- can't exist on its own, quantatitive analysis depends on qualitative anaylsis
+	- more experience required
+	- involves calculations to determine dollar value associated with each risk event
+	- business decisions are made on this type of analysis
+	- necessary for cost/benefit analysis
+	
+~~ AV, asset value, dollar value to organization
+~~ EF, exposure factor, percentage lost expected as result of manifistation of particular risk event
+~~ SLE, single loss expectancy: AV*EF
+~~ ARO, annual rate of occurence: how often the threat is expected to materialize
+~~ ALE, annual loss expectanct: AV*EF*ARO
+~~ TCO, total cost of ownership, total cost of implementing a safe-guard (initial fixed cost plus yearly fees)
+~~ ROI, return of investment, money saved by implementing a safeguard, also referred to as value of safeguard/control
+
+ROI = ALE_before - ALE_after - TCO
+
+Understanding the appropriate amount of security, need to know the potential for loss
+
+
 
 
