@@ -185,5 +185,69 @@ ROI = ALE_before - ALE_after - TCO
 Understanding the appropriate amount of security, need to know the potential for loss
 
 
+****************** VIDEO - PART 7:
+
+RISK MITIGATION
+
+Quantitative analysis leads to proper risk mitigation strategy. Possible actions:
+	- reduce: lessening probability or impact
+	- accept: potential for loss is less than cost of mitigation -> do nothing
+	- transfer: (insurance, SLA), share risk with someone else. Prob or impact not reduced, but the cost shared
+	- avoidance: change activity (bringing prob or impact to zero)
+	- rejection: also do nothing, but just ignore, pretending no risk. Not allowed, not proper risk management. 
+
+Aim of risk management is to bring the amount of (residual) risk to level acceptable by senior management.
+Cost/benefit analysis will help decide the best mitigation strategy
+
+More risk calculations (conceptual!):
+	threats * vulnerability * asset value = total risk
+	total risk * controls gap = residual risk (control gap is portion of risk that cannot be mitigated)
+
+
+****************** VIDEO - PART 8:
+
+GOVERNANCE VS. MANAGEMENT
+
+Governance set the course for the ship, management conducts the steering.
+Or: governance sets out what we're going to accomplish, management says how.
+
+Governance: ensures stakeholder needs, conditions and options are evaluated to determine:
+	- balanced agreed-upon enterprise objectives
+	- direction through prioritization and decision making
+	- monitoring performance and compliance against agreed-upon direction and objective
+
+Management: plans, builds, runs and monitors activities in alignment with direction set by governance body to achieve the enterprise objectives
+
+Governance is responsible for risk appetite
+Management is responsible for risk tolerance, translates appetite in something quantitative
+
+
+****************** VIDEO - PART 9:
+
+FRAMEWORDS AND SENIOR MANAGEMENT'S ROLE
+
+Governance is responsibility of the board under direction chair person.
+Set the tone of the organisation and determining framework under which the organization will operate.
+
+The framework provide structure/foundation. Every organization will implement differently.
+
+Most testable: ISO 27000 series (27001, 27002).
+- ISO 17799, 27000
+- BS7799
+- COBIT, COSO
+- OCTAVE
+- ITIL
+
+COBIT (Control Objectives for Information and related Technologies) ---\
+COSO (Committee of Sponsoring Organizations)    --------------------------- both focus on goals of security
+															COBIT goals for IT
+															COSO  goals for organization
+
+
+
+
+
+
+
 
 
