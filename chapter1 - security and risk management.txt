@@ -243,6 +243,70 @@ COSO (Committee of Sponsoring Organizations)    --------------------------- both
 															COBIT goals for IT
 															COSO  goals for organization
 
+ITIL: Information Technology Infrastructure Library is de facto standard for best practices for IT Service management
+
+5 service management publications:
+	- strategy
+	- design
+	- transition
+	- operations
+	- continual improvement
+
+OCTAVE:	Operationally Critical Threat, Asset and Vulnerability Evaluation
+	- self directed risk evaluation. People within organisation direct risk analysis
+	- suite of tools, techniques and methods for risk-based information security strategy assessment and planning
+		1. identify risks
+		2. identify vulnerabilities
+		3. risk analysis and mitigation
+
+BS7799-1 and BS 7799-2 absorbed by ISO 17799
+Renamed to ISO 27002 to fit ISO numbering standard
+
+Direction on how to plan, force, setup, manage, implement and improve an Information Security Management System (ISMS)
+
+ISO 27001 gives guidance on the ISMS: establishment, implementation, control and improvements of the ISMS
+	Follows the PDCA (Plan, Do, Check, Act)
+ISO 27002 replaced ISO 17799: provides practical advice for how to implement security controls. Uses 10 domains to
+	address ISMS.
+ISO 27704: provides metrics for measuring success of ISMS
+ISO 27005: standards based approach to risk management
+ISO 27799: directive on protecting personal health information
+
+PDCA:	
+	PLAN 	: establish ISMS
+	DO 		: implement and operate ISMS
+	CHECK 	: monitor and review ISMS
+	ACT 	: maintain and improve ISMS
+
+Approach to security mamagement either Top-Down or Bottom-Up
+What you want: Top-Down -> management 'gets it', security practices are directed and supported by senior manamgement
+Bottom Up -> it department tries to implement security, senior management sees it as necessary evil
+
+Senior Management Role: CEO (chief executive officer), CSO, CIO, etc.
+	- ultimately responsible for security
+	- development and support policies
+	- allocation of resources
+	- decision based on risk
+	- priorization of business processes
+
+LIABILITIES
+
+- Legal liability important consideration for risk assessment and analysis
+- Addresses whether company is responsible for specific actions or inaction
+- Who is responsible for security: Senior Management!!
+- Are we liable in instance of loss?
+	- due diligence: continuously monitor organization's practices to ensure meeting/exceeding secuirity requirements
+	- due care: ensuring best practices implemented and followed. !! follow up due diligence with action
+				diligence: intelligence
+				care: action
+	- prudent man rule: acting responsibly and cautiously
+	- best practices: organizations are aligned with favoured practices within industry
+	- culpable negligence: recklessly acting without reasonable caution and putting other persons at risk
+
+
+****************** VIDEO - PART 10:
+
+POLICIES PROCEDURES
 
 
 
