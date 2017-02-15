@@ -430,22 +430,54 @@ read ISC2 code of ethics. Will be some questions on it:
 
 4/ Intellectual Property   [04:28....]
 
+	- intellectual property law
+		+ protecting products of the mind
+		+ company must take steps to protect resources covered by these laws, otherwise the laws do NOT protect
+	- main int. organization UN: WIPO, World Intellectual Property Organization
+	- most prevalent violations: Licensing, Plagiarism, Piracy, Corporate espionage
 
+	Types:
 
+	- Trade Secret
+		+ must provide competitve value
+		+ must be reasonable protected from unauthorized disclosure
+		+ proprietary to company and important for survival
+		+ genuine and not obvious
+	
+	- Copyright
+		+ for authors
+		+ protection for lifetime of author + 70 years (or 75 years after date of copyright for corporations)
+		+ work does NOT need to be registered or published to be protected
+		+ protects expression of ideas rather than the ideas themselves
+		+ author to control how work is distributed, reproduced, used
+		+ protects the expression of the resources instead of the resource itself
+		Two limitations/exceptions:
+		+ First sale [you can resell a (CD, DVD, Book, etc) bought, but cannot reproduce]
+		+ Fair Use [you can make a copy of something you own for own use, limits within reason, judges discression]
+	
+	- Trademark
+		+ protect word, name, symbol, sound, shape, color or combination used to identify products to distinguish from others
+		+ protect from stealing another company's "look and feel"
+		+ corporate brands, operating system logos, ...
+		+ Trademark Law Treaty Implementation Act protects trademarks internationally
 
+	- Patent
+		+ for inventors
+		+ originally valid for 17yrs, not 20 YEARS
+		+ protection for those with legal ownership of an invention
+		+ invention must be novel and non-obvious
+		+ owner has exclusive control of invention for 20 years
+			(example cryptographical algorithm)
+		+ strongest form of protection
+		+ published to stimulate other inventions
+		+ PCT (Patent Cooperation Treaty) adopted by 130 countries, provided international protection 
+		+ no organization enforces patents, up to owners to purse the patents through legal system
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+	Attacks on IP:
+		- piracy
+		- copyright infringement
+		- couterfeiting
+		- cybersqatting: purchase a URL you think someone else might need...
+		- typosquatting: purchase a URL that is close (typo away) from known URL
 
 
