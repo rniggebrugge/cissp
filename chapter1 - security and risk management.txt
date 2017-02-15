@@ -428,7 +428,7 @@ read ISC2 code of ethics. Will be some questions on it:
 	- Burden of proof is "more likely than not"
 	- penalties consist of financiel or imprisonment
 
-4/ Intellectual Property   [04:28....]
+4/ Intellectual Property
 
 	- intellectual property law
 		+ protecting products of the mind
@@ -480,4 +480,53 @@ read ISC2 code of ethics. Will be some questions on it:
 		- cybersqatting: purchase a URL you think someone else might need...
 		- typosquatting: purchase a URL that is close (typo away) from known URL
 
+****************** VIDEO - PART 13:
 
+SPECIFIC LAWS
+
+Export/import restrictions
+
+	- Wassenaar Agreement makes it illegal to export munitions to terrorist sponsored nations
+	- exporting of cryptographic software allowed to non-government end-users of other countries
+	- no exporting of strong encryption software to terrorist states
+	
+	- many countries: import of cryptograhpic tools with strong encryption requires copy of private key
+	  to be provided to law enforcement
+	- US Safe Harbor Laws
+	
+Privacy issues - employee monitoring
+
+- local labor laws related to privacy cannot be violated
+- be mindful of the reasonable expectation of privacy (REP)
+	+ gain an employee waiver by signature on policies, etc.
+- notify that monitoring may be used, or do not monitor at all
+	+ banner and security awareness
+	+ ensure that monitoring is lawful
+	+ do not target individuals
+- monitor related events:
+	+ keystrokes, cameras, badges, telephone, email
+	
+Responsibility is not to catch bad guys but to protect company assets. Always prefer deterence above catching bad guys
+
+~~ HIPAA Health Insurance Portability and Accountability Act
+ Applies to
+ 	- health insurers
+	- health providers
+	- health care clearing houses (claim processing agencies)
+	- as of 2009: covered entities must disclose security breaches regarding personal information
+	- if part of the work of these entities is outsourced, the responsibility it still theirs!
+~~ GRAMM-LEACH-BLILEY Financial services modernization act
+	- known as GLBA
+	- requires financial agencies to better protect PII (personally identifiable information)
+	- Three rules:
+		+ Financial Privacy Rule:
+			requires financial institutions to provide information  to customers regarding
+			how PII is protected
+		+ Safeguard Rule:
+			requires each financial institute to have a formal written security plan detailing
+			how customer PII will be safeguarded
+		+ Pretexting Protection Rule:
+			addresses social  engineering and requires methods be in place to limit information
+			that can be obtained by this type of attack
+	
+... [5:20]
