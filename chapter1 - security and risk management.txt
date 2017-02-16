@@ -515,6 +515,7 @@ Responsibility is not to catch bad guys but to protect company assets. Always pr
 	- health care clearing houses (claim processing agencies)
 	- as of 2009: covered entities must disclose security breaches regarding personal information
 	- if part of the work of these entities is outsourced, the responsibility it still theirs!
+
 ~~ GRAMM-LEACH-BLILEY Financial services modernization act
 	- known as GLBA
 	- requires financial agencies to better protect PII (personally identifiable information)
@@ -528,5 +529,32 @@ Responsibility is not to catch bad guys but to protect company assets. Always pr
 		+ Pretexting Protection Rule:
 			addresses social  engineering and requires methods be in place to limit information
 			that can be obtained by this type of attack
-	
-... [5:20]
+
+~~PCI DSS (Payment Card Industry Data Security Standard)
+	- not a legal mandat (it's not a law, the industry self-regulates)
+	- payment card industry self-regulates its own security standards
+	- applies to any business worldwide that transmits, processes or stores payment card transations to conduct 
+	  business with customers
+	- compliance is enforced by the payment card vendor (Visa, MasterCard, American Express, etc.)
+	- compliance requirements are dictated by the number of transations, as well as any previous security issues
+
+Disclosure
+	- often organizations prefer NOT to disclose security breaches:
+		+ advertises vulnerabilities
+		+ causes loss of customer confidence
+		+ liability issues
+		+ difficulty of prosecution
+
+	- many states have passed disclosure laws that require organization to publicly disclove security breaches that
+	  might comprise personal data
+	  	+ allow individuals to take corrective action
+	  	+ additional motiviation for organizations to protect customer data
+
+Auditing role
+	- objective evaluation of controls and policies to ensure they are implemented and are effective
+	- if internal auditing, auditors should not report to head of business unit, but to legal or HR; some
+	  entity without direct stake in result!
+
+
+
+****************** VIDEO - PART 14:
