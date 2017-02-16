@@ -1,4 +1,4 @@
-CHAPTER 1 - Security and Risk Management
+	CHAPTER 1 - Security and Risk Management
 
 ****************** VIDEO - PART 1:
 
@@ -558,3 +558,11 @@ Auditing role
 
 
 ****************** VIDEO - PART 14:
+
+BUSINESS CONTINUITY AND DISASTER RECOVERY PLANNING
+
+BCP: focus on sustaining operations and protecting viability of the organization following a disaster. The BCP is an umbrella term that includes mant other plans including the DRP. Long term focused.
+
+DRP: goal is to minimize effect of disaster. Take necessary steps to ensure resources, personnel and business processes are able to resume operations in a timely manner.  Deals with the immediate aftermatch of a disaster. Mostly IT focus. Show term focused.
+
+
