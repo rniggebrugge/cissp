@@ -565,4 +565,59 @@ BCP: focus on sustaining operations and protecting viability of the organization
 
 DRP: goal is to minimize effect of disaster. Take necessary steps to ensure resources, personnel and business processes are able to resume operations in a timely manner.  Deals with the immediate aftermatch of a disaster. Mostly IT focus. Show term focused.
 
+Anything risk management does not handle (residual risk, unidentified risk, greater than expected risks, accepted risks, ...) should be covered by business continuity.
+
+Three threat types:
+	- man-made:
+		strikes, riots, fires, terrorism, hackers,...
+	- natural:
+		tornado, flood, earthquake, snowstorm
+	- technical:
+		poweroutage, device failure, loss of network,  ...
+
+Categories of disruptions:
+
+	- Non-disaster: inconveniences (hard-drive failure)
+		+ disruption of service
+		+ device malfunction
+	- Emergency/crisis
+		+ urgent, immediate event where there is the potential for loss of life or property
+	- Distaster
+		+ entire faculty unusable for a day or longer [can also be snowstorm that makes faculty unaivalable for a day]
+	- Catastrophe
+		+ destroys facility
+
+Anyone can declare an emergency, only the BCP coordinator, someone specified in the BCP, or management can declare disaster, this will trigger failover to another facility.
+
+Company should understand and be prepared for each category
+
+BCP Sub-plans
+	- BCP
+	- Protect:
+		+ Crisis Communication Plan
+~~		+ OPE (Occupant Emergency Plan)
+	- Recover:
+~~		+ BRP (Business Recovery Plan)
+~~		+ DRP (Disaster Recovery Plan)
+		+ Continuity of Support Plan/Contigency Plan
+	- Sustain:
+~~		+ COOP (Continuity of Operations Plan)
+
+
+
+****************** VIDEO - PART 15:
+
+BCP PHASES (7)
+
+Depends on sources on BCP with different elements. But regardless, they are all more or less the same.
+
+	- Project Initiation (get policy, high management involvement)
+	- Business Impact Analysis (huge, very important)
+	- Recovery Strategy (what is in place, how can we discover)
+	- Plan Design and Development
+	- Implementation
+	- Testing
+	- Maintenance
+
+
 
