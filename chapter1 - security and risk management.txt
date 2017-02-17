@@ -611,13 +611,99 @@ BCP PHASES (7)
 
 Depends on sources on BCP with different elements. But regardless, they are all more or less the same.
 
-	- Project Initiation (get policy, high management involvement)
-	- Business Impact Analysis (huge, very important)
-	- Recovery Strategy (what is in place, how can we discover)
-	- Plan Design and Development
-	- Implementation
-	- Testing
-	- Maintenance
+	-1- Project Initiation (get policy, high management involvement)
+	-2- Business Impact Analysis (huge, very important)
+	-3- Recovery Strategy (what is in place, how can we discover)
+	-4- Plan Design and Development
+	-5- Implementation
+	-6- Testing
+	-7- Maintenance
+
+{PHASE 1: Project Initiation}
+
+	- obtain senior management support [without, don't move forward]
+	- secure funding and resource allocation
+	- name BCP coordinator/project manager
+	- develop project charter
+	- determine scope of plan
+	- select members BCP team
 
 
+****************** VIDEO - PART 16:
 
+ROLES AND RESPONSIBILITES
+
+	- Senior Executive Management:
+		+ consistent suport and final approval plans
+		+ setting business continuity policy
+		+ prioritizing critical business functions
+		+ allocating sufficient resources and personnel
+		+ providing oversight for and approving the BCP
+		+ directing and reviewing test results
+		+ ensuring maintenance of current plan
+	- Senior Functional Management:
+		+ senior executive management says WHAT (99% uptime, max 1 hour outage...), senior functional 
+		  management says HOW
+		+ develop and document maintenance and testing strategy
+		+ identify and prioritize mission-critical systems
+		+ monitor progress of plan development and execution
+		+ ensure periodic tests
+		+ create various teams necessary to execute plans
+	- BCP Steering Committee
+		[unless they tell otherwise, you can assume to be head of BCP Steering Committee, aka BCP Team, 
+		 you can also be referred to as Project Manager, Coordinator of Steering Committee]
+		+ conduct the BIA (Business Impact Analysis) - what impact for the loss of each elements
+		+ coordinate with department representatives - cross functional team, not only IT! Experts in different fields
+		+ develop analysis group 
+			# plan must be developed by those who will carry it out
+			# representatives from critical departments
+	- BCP Teams
+		+ Rescue team: responsible for dealing with immediacy of disaster (evacuation, crashing server room, etc)
+		+ Recovery team: responsible for getting alternate facility running and restoring MOST critical services first
+		+ Salvage team: responsible for return of operation to original or new permanent facility (reconstitution),
+		  starting with LEAST critical services
+
+	Developing the teams
+		- management should appoint members
+		- each member understands goals of plan and familiar with department they're responsible for
+		- agreed upon prior to event:
+			+ who will talk to media, customers, share holders
+			+ who will setup alternative communications methods
+			+ who will setup offsite facility
+			+ established agreeements with off-site facilities should be in place
+			+ who will work on primary facility
+
+
+****************** VIDEO - PART 17:
+
+BUSINESS CONTINUITY PLAN SUB-PLANS
+
+See above: BCP	-> Protect (Crisis Communication Plan + Occupant Emergency Plan),
+				-> Recovery (Business Recovery Plan, Disaster Recover Plan, Continuity of Support Plan/
+								IT Contigency Plan)
+				-> Sustain (Continuity of Operations Plan)
+
+Protect
+	- Crisis Communication Plan:
+		purpose: provides procedures for disseminating status reports to personnel and public
+		scope: addresses communications with personnel and public, not IT focused
+	- Occupant Emergency Plan (EOP):
+		purpose: coordinated procedures for minimizing loss of life, injure and protecting propert damage in reponse
+			to physical threat
+		scope: focuses on personnel and property particular to the specific facility; not business process or IT system
+		aka: Crisis or Incident Managment Plan. However the OEP concept is recognizable as "initial response to 
+			emergency event"
+
+Recover
+	- Business Recovery (or Resumption) Plan (BRP):
+		purpose: provide procedures for recovering business operations immediately following a disaster
+		scope: addresses business processes, not IT focuses, IT addressed based only on its support for business process
+	- Continuity of Support Plan/IT Contigency Plan:
+		purpose:  provide procedures and capabilities for recovering major application or general support system
+		scope: addresses IT system disruptions, not business process focussed
+	- Cyber Incident Response Plan:
+		purpose: provide stategies to detect, respond to and limit consequence of malicious cyber incident
+		scope: focuses on information security responses to incidents affecting systems/networks
+	- Disaster Recovery Plan (DRP)
+		purpose: provide detailed procedures to facilitate recovery of capabilities at an alternate site
+		scope: often it-focused; limited to major disruptions with long-term effects
