@@ -619,7 +619,7 @@ Depends on sources on BCP with different elements. But regardless, they are all 
 	-6- Testing
 	-7- Maintenance
 
-{PHASE 1: Project Initiation}
+{PHASE 1: Project Initiation of Business Continuity Plan}
 
 	- obtain senior management support [without, don't move forward]
 	- secure funding and resource allocation
@@ -676,6 +676,8 @@ ROLES AND RESPONSIBILITES
 
 ****************** VIDEO - PART 17:
 
+{PHASE 3: Recovery Strategy of Business Continuity Plan}
+
 BUSINESS CONTINUITY PLAN SUB-PLANS
 
 See above: BCP	-> Protect (Crisis Communication Plan + Occupant Emergency Plan),
@@ -707,3 +709,109 @@ Recover
 	- Disaster Recovery Plan (DRP)
 		purpose: provide detailed procedures to facilitate recovery of capabilities at an alternate site
 		scope: often it-focused; limited to major disruptions with long-term effects
+
+Sustain
+	- Continuity of Operations Plan (COOP) - only plan with medium-term focus
+		purpose: procedures and capabilities to sustain organization's essential, strategic functions
+		at an alternate site for up to 30 days. This temr is sometimes used in US Government to refer to 
+		the field of Business Continuity Management, but per NIST 800-34, it is a unique subplan of the BCP. 
+		NOTE: BCP addresses all business processes, not just mission critial
+		scope: addresses the subset of an organization's missions that are deemed most critical; usually written
+		at headquarters level; not it-focuses
+
+
+****************** VIDEO - PART 18:
+
+PHASES OF THE PLAN
+
+{PHASE 4: Plan and design development of Business Continuity Plan}
+
+Now that all research and planning has been done, it is time to write the actual plan.
+
+Should address:
+	- responsibility 	[by role, not by name]
+	- authority  		[changed staff, different staff, different hierarchy]
+	- priorities	
+	- testing
+
+{PHASE 5 of Business Continuity Plan: Implementation}
+
+	- plan often created for enterprise with individual functional managers responsible for plan specific to department
+	- copies of plan should be kept in multiple locations
+	- electronic and paper copies should be kept
+	- plans distributed on need-to-know basis.
+	  most employees only see small portion of the plan
+
+Typically there is the enterprisewide plan and a plan for each individual department.
+
+Three phases following a disruption
+	- Notification/Activation:
+		+ notifying recovery personnel
+		+ performing a damage assessment
+	- Recovery Phase -- Failover
+		+ actios taken by recovery team and personnel to restore IT operations at an alternate site or using
+		  contingency capabilities - performed by recovery team
+	- Reconstitution -- Failback
+		+ outlines actions taken to return system to normal operation conditions - performed by salvage team
+
+{PHASE 6 of Business Continuity Plan: Testing}
+
+	- should happen yearly, or as a result of major change
+	- purpose of testing is to improve the response (never to find fault or blame)
+	- type if testing is based upon criticality of organization, resources available and risk tolerance:
+		+ testing: happens before implementation of a plan. Goal is to ensure accuracy and effectiveness of plan
+		+ exercises/drills: employees walk through step-by-step. Periodically. Main goal is to train employees
+		+ auditing: 3rd part obeserver ensures components of a plan are being carried out and that they are effective
+
+		test/drill: 
+			test all about verifying plan for accuracy and completeness. ABOUT PLAN
+			drill and exercises focus on employee response. ABOUT EMPLOYEE RESPONSE
+
+		Different tests:
+		1. checklist test
+			- copies of plan distributed to different departments
+			- functional managers review
+		2. Structrured walk-through (table top) test [think talk-through, no actual walking]
+			- representatives from each department go over the plan
+		3. Simulation Test
+			- going through a disaster scenario, we go around.
+			- continues to the actual relocation to an offsite facility
+		4. Parallel Test
+			- systems moved to alternate site, and processing takes place there
+			- we take a part of the operations and move to the atlernate site
+			- risky because of alternate site is not ready or not functioning properly, we risk losing live data,
+				transactions,...
+		5. Full-Interruption test
+			- primary/original site shut down!
+			- all of processing moved to offsite facility
+			- example: take down all on Friday afternoon, resume business on Monday morning at alternate facility
+
+		First two are 'paper-work' only, first three are not very risky. Last two are.
+
+		Post-incident review (after testing)
+
+		After a test or disaster has taken place:
+			- focus on how to improve. PURPOSE ALWAYS TO GET BETTER
+			- what should have happened
+			- what should happen next
+			- NOT who's fault it was; not productive
+
+
+{PHASE 7 of Business Continuity Plan: Maintenance}	 
+
+		- Change Management:
+			+ technical - hardware/software
+			+ people
+			+ environment
+			+ laws
+		- Large plans can take a lot of work to maintain
+		- does not have direct line to profitability
+		- Also at least once a year, or after big change
+		- Keeping plan in date:
+			+ make it part of business meetings and decisions
+			+ centralize responsibility for updates
+			+ part of job description
+			+ personnel evaluations
+			+ report regularly
+			+ audits
+			+ as plans get revised, original copies should be retrieved and destroyed
