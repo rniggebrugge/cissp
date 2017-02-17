@@ -815,3 +815,67 @@ Three phases following a disruption
 			+ report regularly
 			+ audits
 			+ as plans get revised, original copies should be retrieved and destroyed
+
+Going through phases again....
+
+
+****************** VIDEO - PART 19:
+
+PHASE 2: Business Impact Analysis
+
+Looked at first phase: project initiation. We got the BCP policy, which is managements backing in writing
+Now comes big part: writing the Business Impact Analysis. Often when something goes wrong, it can be traced back to mistakes in BIA.
+
+BIA
+	- initiated by BCP committee
+	- identifies and prioritizes all business processes based on criticality
+	- addresses impact on the organization in the event of loss of specific services or processes
+		+ quantitative: loss of revenue, loss of capital, loss due to liabilities, penalties, fines, etc.
+		+ qualitative: loss of service quality, competitive advantage, market share, reputation, etc.
+	- establishes key metrics for in use in determining appropriate counter-measures (controls) and recovery strategy
+	- IMPORTANCE (relevance) vs. CRITICALITY (downtime)
+		+ auditing department is certainly important, though not usually critical.
+		  the BIA focuses on CRITICALITY
+
+	KEY METRICS to establis
+
+	- Service Level Objectives (SLO)		: understanding we're operating reduced capacity, but still we have targets
+~~	- Recovery Point Objective (RPO)		: tolerance for loss of data (how current must data be)
+~~	- Maximum Tolerable Downtime (MTD)		: longest we tolerate a system, process unavailable
+~~		+ Recovery Time Objective (RTO)			-/+ time to restore hardware \__ together -/+ MTD
+~~		+ Work Recovery Time (WRT)				-/+ time to restore software /
+~~	- Mean Time Between Failures (MTBF)		: lifetime of hardware
+~~	- Meam Time To Repair (MTTR)			: time it takes to rebuild
+~~	- Minimum Operating Requirements (MOR)	: for applications and services need to be documented what are MOR
+
+	Management should establish recovery priorities for business processes that identify:
+		- essential personnel
+			+ succession plans (if not available, then contact...)
+			+ MOAs/MOUs (Memoranda of Agreements/Understanding)
+				people responsible for activities sign off and acknowledge their role and responsibilities
+				Ex: if someone should be there and did not show up, what paper could have corrected this? -> MOA/MOU
+		- technologies
+		- facilities
+		- communication systems
+		- vital records and data
+
+
+	Results from BIA contain:
+		- identified ALL business processes and assets, not just those considered critical 
+			-> sorted/prioritized by criticality
+		- impact company can handle dealing with each risk
+		- outage time that would be critical vs those which would not be critical
+		- preventive controls
+
+	Document presented to management for approval
+	Results are used to created the recovery plan (next phase)
+
+	For example: if in BIA it says I have maximim tolerable downtime (MTD)of 30 minutes 
+	-> recovery strategies put in place should ensure this requirement is met
+
+	BIA------->Submit to management------->DRP and BCP derived from BIA
+
+	Look to BIA for source of problem, but also solution
+
+
+****************** VIDEO - PART 20:

@@ -1,28 +1,28 @@
 ISSP Introduction Module
-Part 1 – Welcome							2:54
-Part 2 – Syllabus							6:03
-Part 3 – Exam								19:03
+1Part 1 – Welcome							2:54
+1Part 2 – Syllabus							6:03
+1Part 3 – Exam								19:03
 
 CISSP Module 01
-Part 1 – Intro								3:30
-Part 2 – CIA and IAAA						11:46
-Part 3 – Tenets of Secure Design			11:48
-Part 4 – Risk Intro							7:16
-Part 5 – Risk Assessment					6:24
-Part 6 – Risk Analysis						8:38
-Part 7 – Risk Mitigation					9:57
-Part 8 – Governance vs Management					4:53
-Part 9 – Frameworks and Senior Management’s Role	12:58
-Part 10 – Policies Procedures Standards and Guidelines	8:09
-Part 11 – Knowledge Transfer				4:37
-Part 12 – Types of Laws						10:28
-Part 13 – Specific Laws						7:35
+1Part 1 – Intro								3:30
+1Part 2 – CIA and IAAA						11:46
+1Part 3 – Tenets of Secure Design			11:48
+1Part 4 – Risk Intro							7:16
+1Part 5 – Risk Assessment					6:24
+1Part 6 – Risk Analysis						8:38
+1Part 7 – Risk Mitigation					9:57
+1Part 8 – Governance vs Management					4:53
+1Part 9 – Frameworks and Senior Management’s Role	12:58
+1Part 10 – Policies Procedures Standards and Guidelines	8:09
+1Part 11 – Knowledge Transfer				4:37
+1Part 12 – Types of Laws						10:28
+1Part 13 – Specific Laws						7:35
 Part 14 – BCP Intro							7:26
-Part 15 – BCP Phases						2:03
-Part 16 – BCP Roles and Responsibilities	9:01
-Part 17 – BCP Subplans						3:03
+1Part 15 – BCP Phases						2:03
+11Part 16 – BCP Roles and Responsibilities	9:01
+1Part 17 – BCP Subplans						3:03
 Part 18 – BCP Remaining Phases				7:50
-Part 19 – BIA								10:23
+1Part 19 – BIA								10:23
 Part 20 – BCP Remaining Phases				7:53
 Part 21 – Chapter 1 Review					2:44
 
