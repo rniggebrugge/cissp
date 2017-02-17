@@ -595,7 +595,7 @@ BCP Sub-plans
 	- BCP
 	- Protect:
 		+ Crisis Communication Plan
-~~		+ OPE (Occupant Emergency Plan)
+~~		+ OEP (Occupant Emergency Plan)
 	- Recover:
 ~~		+ BRP (Business Recovery Plan)
 ~~		+ DRP (Disaster Recovery Plan)
