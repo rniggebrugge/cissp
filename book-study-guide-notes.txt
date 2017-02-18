@@ -1,0 +1,17 @@
+CHAPTER 4 - Information Security Governance and Risk Mamagement
+
+Annualized loss expectency  : cost of loss to to a risk over a year
+Threat                      : a potentially negative occurence
+Vulnerability               : a weakness in a system
+Risk                        : a matched threat and vulnerability
+Safeguard                   : a measure taken to reduce risk
+Total Cost of Ownership     : the cost of a safeguard
+Return on Investment        : money saved by deploying a safeguard
+
+page 145: RISK = THREAT * VULNERABILITY or RISK = THREAT * VULNERABILITY * IMPACT
+page 146: loss of human life has near infinite impact, must be mitigated
+page 147: three methods of calculating value of intangible assets
+    - Market approach: assumes fair value reflects price at which comparable assets have been purchased in transactions under similar circumstances
+    - Income approach: based on premises that value of a security or asset is present value of future earning capacity that asset will generate over remaingin useful       life
+    - Cost approach  : estimates fair value by reference to the costs that would be incurred in order to recreate or replace asset
+
